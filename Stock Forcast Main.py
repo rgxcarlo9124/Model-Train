@@ -129,6 +129,7 @@ New_Stock_data.reset_index(inplace=True)
 #-------------------------------------------------------------
 
 
+
 # Feature Engineering
 New_Stock_data['DayOfWeek'] = New_Stock_data['Date'].dt.dayofweek
 New_Stock_data['Month'] = New_Stock_data['Date'].dt.month
