@@ -4,4 +4,4 @@ Therefore as a small project from a team of 2, we are using machine learning and
 
 We are taking the data from yahoo finance and using the data and stock ID code ,we are plotting the stock graph with its prediction,maily using python,from the given distance of 10 years.
 
-We are using data of 5 years of Nvidia and Bitcoin from yahoo finance to run this prediction.This project can can be scaled if research paer regarding this is published.
+We are using data of 5 years of Nvidia and Bitcoin from yahoo finance to run this prediction.This project can can be scaled if research paper regarding this is published.
